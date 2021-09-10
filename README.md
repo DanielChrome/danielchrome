@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielchrome&label=Profile%20views&color=0e75b6&style=flat" alt="danielchrome" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielchrome" alt="danielchrome" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielchrome&theme=dracula" alt="danielchrome" /></a> </p>
 
 - 🔭 I’m currently working on **FoodInn**
 
